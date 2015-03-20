@@ -1,14 +1,13 @@
-# liferesidential
 ## LIFE Residential Challenge
 
 ### Information Sources:
-http://www.liferesidential.co.uk/
-http://www.lifeatstgeorgewharf.co.uk/
-http://newcapquay.co.uk/
-http://www.liferesidential.co.uk/
-http://www.galliardhomes.com/Apex
-http://www.stgeorgewharf.net/
-http://www.countyhall.net/
+- http://www.liferesidential.co.uk/
+- http://www.lifeatstgeorgewharf.co.uk/
+- http://newcapquay.co.uk/
+- http://www.liferesidential.co.uk/
+- http://www.galliardhomes.com/Apex
+- http://www.stgeorgewharf.net/
+- http://www.countyhall.net/
 
 ### WebSite's Features:
 Languages used:
