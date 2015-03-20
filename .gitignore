@@ -1,0 +1,7 @@
+!.gitignore
+*.jpg
+*.png
+*.bmp
+*.pdf
+*.psd
+*.ico
